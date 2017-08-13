@@ -1,0 +1,99 @@
+F:\Kinect Installation\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\MainWindow.baml
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\App.g.cs
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\MainWindow.baml
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\App.g.cs
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\BodyBasic Surface Detetction\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\MainWindow.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\App.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\MainWindow.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\App.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\Window1.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\Window1.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 PreConfig screen size\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\MainWindow.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\Window1.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\App.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\Window1.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\MainWindow.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\MainWindow.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\Window1.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\App.g.cs
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\Window1.baml
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF.g.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\Kinect Installation\VIRTUAL TOUCH SCREEN\BodyBasics-WPF V3.0 TCS - Copy\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
